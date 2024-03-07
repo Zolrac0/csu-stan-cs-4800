@@ -5,7 +5,7 @@ package tutorial;
 
 public class App {
     public String getGreeting() {
-        return "Carlos Zavala 2";
+        return "Carlos Zavala's goodbye";
     }
 
     public static void main(String[] args) {
